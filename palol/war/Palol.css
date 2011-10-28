@@ -1,0 +1,13 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+
+canvas
+{
+	background-color: #444;
+	top: 0;
+	left: 0;
+	position: absolute;
+	transform: translate3d(0,0,0);
+}
